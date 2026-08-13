@@ -15,7 +15,7 @@ The dashboard was designed to evaluate **cross-channel and social media campaign
     <img width="616"
          height="617"
          alt="Digital Marketing Performance Dashboard"
-         src="https://github.com/user-attachments/assets/5fbaccb6-de2d-414e-951e-12f8cb8b1548" />
+         src="https://github.com/user-attachments/assets/8275201c-e198-42eb-a091-3a0fd906884f" />
   </a>
 </p>
 <p align="center">
