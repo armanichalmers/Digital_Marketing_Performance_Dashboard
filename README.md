@@ -22,7 +22,7 @@ The dashboard was designed to evaluate **cross-channel and social media campaign
   <em>Click the dashboard image above to view the interactive Power BI dashboard.</em>
 </p>
 
-### 🔗 [View Interactive Power BI Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDVmMDQxNWQtOTdmYi00ZmVmLTlkYzItMWIyYjAwMmJjYjAyIiwidCI6ImE3MTQwZjc1LWIzZmUtNDlmMy04ODlhLTQ4ZWVlZmQxZmViYSJ9)
+### 🔗 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVmMDQxNWQtOTdmYi00ZmVmLTlkYzItMWIyYjAwMmJjYjAyIiwidCI6ImE3MTQwZjc1LWIzZmUtNDlmMy04ODlhLTQ4ZWVlZmQxZmViYSJ9)
 
 
 
