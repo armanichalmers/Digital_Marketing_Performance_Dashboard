@@ -184,7 +184,7 @@ The design incorporates:
 
 ## 📂 Dataset
 
-The marketing campaign dataset contains campaign-level information used to evaluate digital and social media advertising performance across multiple channels and audience segments.
+The `marketing_campaign` dataset contains campaign-level information used to evaluate digital and social media advertising performance across multiple channels and audience segments.
 
 Key fields include:
 
@@ -200,6 +200,8 @@ Key fields include:
 - Cost per Conversion
 
 The dataset included in this repository can be used to review the source data behind the dashboard and reproduce the analysis.
+
+### 🔗 [View market_campaign dataset](https://github.com/armanichalmers/Digital_Marketing_Performance_Dashboard/blob/main/marketing_campaigns.csv)
 
 ---
 
