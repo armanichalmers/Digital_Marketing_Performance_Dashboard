@@ -224,5 +224,5 @@ The dataset included in this repository can be used to review the source data be
 
 ## 🔗 Dashboard Access
 
-### [📊 View the Interactive Digital Marketing Performance Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDVmMDQxNWQtOTdmYi00ZmVmLTlkYzItMWIyYjAwMmJjYjAyIiwidCI6ImE3MTQwZjc1LWIzZmUtNDlmMy04ODlhLTQ4ZWVlZmQxZmViYSJ9)
+### [📊 View the Interactive Digital Marketing Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVmMDQxNWQtOTdmYi00ZmVmLTlkYzItMWIyYjAwMmJjYjAyIiwidCI6ImE3MTQwZjc1LWIzZmUtNDlmMy04ODlhLTQ4ZWVlZmQxZmViYSJ9)
 
