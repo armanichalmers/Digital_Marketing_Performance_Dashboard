@@ -8,6 +8,7 @@ The dashboard was designed to evaluate **cross-channel and social media campaign
 
 ---
 
+
 ## 📊 Interactive Dashboard
 
 <p align="center">
@@ -15,7 +16,7 @@ The dashboard was designed to evaluate **cross-channel and social media campaign
     <img width="616"
          height="617"
          alt="Digital Marketing Performance Dashboard"
-         src="https://github.com/user-attachments/assets/8275201c-e198-42eb-a091-3a0fd906884f" />
+         src="https://github.com/user-attachments/assets/0dc20d09-68fc-4b28-83a3-28b15ae29e6f" />
   </a>
 </p>
 <p align="center">
